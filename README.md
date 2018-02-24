@@ -1,3 +1,3 @@
 # Learning
 
-# This repo is dedicated to the programs I've written whilst learning a programming language.
+This repo contains some of the code I've written while applying fundamental programming concepts
