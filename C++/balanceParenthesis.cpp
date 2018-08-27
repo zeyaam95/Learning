@@ -1,5 +1,6 @@
 /*
 Author: Zeyaam Shahid
+Create a Program that checks if the brackets in a given string are balanced or not.
 */
 
 #include <iostream>
